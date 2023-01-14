@@ -1,0 +1,33 @@
+/*---------custom styles------------*/
+iframe{
+  width: 550px;
+  height: 550px;
+  border: transparent;
+}
+a{
+  margin-right: 40px;
+}
+
+#frame{
+  width: 280px;
+  border: transparent;
+}
+
+#attribution_block{
+  overflow: hidden;
+}
+.rd-1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.WEB{
+  display: flex;
+  justify-content: center;
+  font-size: 1.5rem;
+  color: aliceblue;
+}
+.WEB:hover{
+  color:rgb(78, 180, 121);
+  
+}
